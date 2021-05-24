@@ -4,7 +4,7 @@ Calc
 
 ## Installation
 * Download and upload the program
-* Go to ~/Projekt-2-main
+* Go to ~/Projekt_WDSO_2-main
 * implement:
 * make
 * export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:.
